@@ -1,0 +1,28 @@
+.Header__two .navbar{
+    background-color: #fff;
+}
+.Header__two .navbar-toggler{
+   float: right;
+}
+.Header__two .navbar-brand{
+    float: left;
+    padding: 10px 15;
+    line-height: 20px;
+    height: 70px;
+    font-size: 18px;
+}
+.Header__two .navbar-brand:hover,
+.Header__two .navbar-brand:focus{
+   text-decoration: none;
+}
+
+.Header__two ul.navbar-nav > li > a{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.Header__two ul.navbar-nav > li > a:hover{
+   background-color: #e7e7e7;
+   text-decoration: none;
+}
