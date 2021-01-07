@@ -1,0 +1,44 @@
+.Advantages .box{ 
+    background-color: #fff;
+    margin: 0 0 30px;
+    border: 1px solid #e6e6e6;
+    box-sizing: border-box;
+    padding: 20px;
+    box-shadow: 0 1px 5px rgba(0,0,0, .1);
+    height: 150px;
+
+}
+#advantages{
+    text-align: center;
+}
+
+#advantages .box .icon{ 
+position: absolute;
+font-size: 120px;
+text-align: center;
+top: -20px;
+height: 100px;
+float: left;
+width: 100px;
+color: #eeeeee;
+transition: all .2d ease-out;
+z-index: 1;
+box-sizing: border-box;
+
+}
+
+#advantages .box h3{
+    position: relative;
+    margin: 0 0 20px;
+    font-weight: 300;
+    text-transform: uppercase;
+    z-index: 2;
+}
+#advantages .box h3 a:hover{
+   text-decoration: none;
+}
+#advantages .box p{
+   position: relative;
+   color: #555555;
+   z-index: 2;
+}

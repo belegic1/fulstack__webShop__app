@@ -1,0 +1,10 @@
+#slider{
+    margin-bottom: 40px;
+    height: 60vh;
+}
+
+.SLIDER .slide{ 
+    height: 60vh;
+    overflow: hidden;
+    min-height: 400px;
+}
