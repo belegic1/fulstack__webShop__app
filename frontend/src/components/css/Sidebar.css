@@ -1,0 +1,18 @@
+.panel.sidebar-menu{ 
+    box-sizing: border-box;
+    box-shadow: 0 1px 5px rgba(0,0,0,.1);
+}
+
+.panel.sidebar-menu ul.nav.category.menu{
+    margin-bottom: 20px;
+}
+
+.panel.sidebar-menu ul.nav.category-menu li a{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.panel.sidebar-menu ul.nav.category-menu h3{   
+padding: 5px 0;
+margin: 0;
+}

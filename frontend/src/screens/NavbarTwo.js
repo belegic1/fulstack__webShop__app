@@ -34,7 +34,7 @@ const NavbarTwo = () => {
 								<Link to='/shop'>Shop</Link>
 							</li>
 							<li className='Header__two dropdown-item'>
-								<Link to='/profile'>My Account</Link>
+								<Link to='/account'>My Account</Link>
 							</li>
 							<li className='Header__two dropdown-item'>
 								<Link to='/cart'>Shopping Cart</Link>
